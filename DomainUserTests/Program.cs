@@ -20,6 +20,7 @@ namespace DomainUserTests
     static void Main(string[] args)
     {
 		// Local comment 001
+		// Local comment 002
     }
   }
 }
