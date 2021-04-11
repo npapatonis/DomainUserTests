@@ -23,6 +23,7 @@ namespace DomainUserTests
 		// Local comment 002
 		// Local comment 003
 		// Local comment 004
+		// Local comment 005
     }
   }
 }
