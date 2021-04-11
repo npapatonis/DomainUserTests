@@ -11,6 +11,7 @@ namespace DomainUserTests
   // Remote comment 003
   // Remote comment 004
   // Remote comment 005
+  // Remote comment 006
   class Program
   {
     static void Main(string[] args)
